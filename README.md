@@ -71,9 +71,9 @@ border-style: none;
   <header>
     <h2>Contact</h2>
     <ul>
-    <li><a href="index.html">index</a></li>
-    <li><a href="overmij.html">overmij</a></li>
-    <li><a href="contact.html">contact</a></li>
+    <li><a href="https://zaki-2020.github.io/indexles22/">index</a></li>
+    <li><a href="https://zaki-2020.github.io/les22overmij/">overmij</a></li>
+    <li><a href="https://zaki-2020.github.io/les22Contact/">contact</a></li>
     </ul>
   </header>
 <form> <b>Contactformulier</b>
